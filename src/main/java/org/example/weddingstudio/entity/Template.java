@@ -1,0 +1,4 @@
+package org.example.weddingstudio.entity;
+
+public class Template {
+}
